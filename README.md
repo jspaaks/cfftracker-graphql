@@ -37,7 +37,7 @@ query {
 
 Example result:
 
-```
+```json
 {
   "data": {
     "rateLimit": {
